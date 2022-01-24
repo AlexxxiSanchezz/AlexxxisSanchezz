@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexxxisSanchezz
 - 👀 I’m interested in Linux, Game, OS Development, FOSS and voxels.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python, Lua and Rust.
 - 💞️ I’m looking to collaborate on KDE Plasma
 
 
